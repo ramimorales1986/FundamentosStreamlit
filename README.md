@@ -1,22 +1,3 @@
-📖 Información Académica
-
-Universidad: Universidad Hemisferios (UHE)
-
-Programa:
-Maestría en Tecnologías de Información con mención en Transformación Digital e Innovación
-
-Módulo:
-MTDI202: Big Data, Analytics & Data Scientist
-
-Docente:
-Ing. Carlos Wladimir Carrillo Villavicencio, MSc. TIC.
-
-Estudiante:
-Ramiro Iván Morales Pilaguano
-
-Lugar y fecha:
-Quito, Ecuador – Junio 2026
-
 # 🚀 Fundamentos de Streamlit
 
 Este repositorio contiene una aplicación desarrollada con **Streamlit** como parte del aprendizaje de los fundamentos para la creación de aplicaciones web interactivas en Python.
