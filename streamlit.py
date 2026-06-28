@@ -23,7 +23,7 @@ st.markdown("### Maestría en Tecnologías de Información - Big Data & Analytic
 
 @st.cache_data
 def cargar_datos():
-    df = pd.read_csv("Creditos_Ecuador_60000_Registros.csv")
+    df = pd.read_csv("Creditos_Ecuador.csv")
     return df
 
 df = cargar_datos()
